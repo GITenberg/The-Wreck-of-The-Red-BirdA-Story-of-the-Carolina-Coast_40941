@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/8154
     wikipedia: https://en.wikipedia.org/wiki/George_Cary_Eggleston
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/40941#The-Wreck-of-The-Red-BirdA-Story-of-the-Carolina-Coast
 gutenberg_issued: '2012-10-05'
 gutenberg_type: Text
 identifiers:
